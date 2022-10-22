@@ -1,4 +1,4 @@
-from PIL import Imagem
+from PIL import Image
 Imagem.open("logo.png")
 
 import pywhatkit
